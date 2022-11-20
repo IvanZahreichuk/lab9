@@ -1,0 +1,15 @@
+/Users/andriizahreichuk/Documents/Labs/Lab09/bin/Debug/net6.0/Lab09
+/Users/andriizahreichuk/Documents/Labs/Lab09/bin/Debug/net6.0/Lab09.deps.json
+/Users/andriizahreichuk/Documents/Labs/Lab09/bin/Debug/net6.0/Lab09.runtimeconfig.json
+/Users/andriizahreichuk/Documents/Labs/Lab09/bin/Debug/net6.0/Lab09.dll
+/Users/andriizahreichuk/Documents/Labs/Lab09/bin/Debug/net6.0/Lab09.pdb
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.csproj.AssemblyReference.cache
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.AssemblyInfoInputs.cache
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.AssemblyInfo.cs
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.csproj.CoreCompileInputs.cache
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.dll
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/refint/Lab09.dll
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.pdb
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/Lab09.genruntimeconfig.cache
+/Users/andriizahreichuk/Documents/Labs/Lab09/obj/Debug/net6.0/ref/Lab09.dll
